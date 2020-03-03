@@ -1,3 +1,11 @@
+/*
+Project: Map Implementation (Doubly Linked List)
+Author: Rudy Orre
+School: El Camino College
+Professor: Russel Solomon
+Date: 03-02-2020
+*/
+
 #ifndef MAP_H
 #define MAP_H
 #include <string>
@@ -99,4 +107,4 @@ void subtract(const Map& m1, const Map& m2, Map& result);
 
 void print(const Map& m);
 
-#endif MAP_H
+#endif /*MAP_H*/
