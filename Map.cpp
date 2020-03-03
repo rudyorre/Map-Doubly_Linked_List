@@ -1,3 +1,11 @@
+/*
+Project: Map Implementation (Doubly Linked List)
+Author: Rudy Orre
+School: El Camino College
+Professor: Russel Solomon
+Date: 03-02-2020
+*/
+
 #ifndef MAP_CPP
 #define MAP_CPP
 #include "Map.h"
@@ -335,4 +343,4 @@ int Convert_Key(double key)
 	return 0;
 }
 
-#endif MAP_CPP
+#endif /*MAP_CPP*/
